@@ -1,0 +1,2 @@
+# SyyS
+Carpeta de prácticas 
